@@ -1,6 +1,6 @@
 # WikiComptines - Partage de comptines via terminal
 
-Ce projet permet à des utilisateurs de **partager des comptines directement depuis leur terminal**, assurant une communication fluide et sans interruption. Il a été réalisé dans le cadre d’un devoir de programmation réseau, et un **rapport détaillé** est disponible dans ce dépôt.
+Ce projet permet à des utilisateurs de **partager des comptines directement depuis leur terminal**, assurant une communication fluide et sans interruption. Il a été réalisé dans le cadre d’un devoir de programmation réseau, un **rapport** est disponible dans ce dépôt.
 
 ## Fonctionnalités principales
 
